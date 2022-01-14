@@ -1,0 +1,6 @@
+{
+  "foo": [ "bar", "buzz", "happy" ],
+  "play": [ "football", "soccer", "volleyball" ],
+  "outside": [ "trees", "mice", "owl" ],
+  "removeMe": ["nada"]
+}

@@ -1,0 +1,17 @@
+﻿___Dictionary App Help___
+
+
+Command : Example
+
+ADD : ADD <key> <value> 
+KEYS : KEYS
+MEMBERS : MEMBERS <key>
+REMOVE : REMOVE <key> <value>
+REMOVEALL : REMOVEALL <key>
+CLEAR : CLEAR
+KEYEXISTS : KEYEXISTS <key>
+MEMBEREXISTS : MEMBEREXISTS <key> <value>
+ALLMEMBERS : ALLMEMBERS
+ITEMS : ITEMS
+
+Commands are not case sensitive so "add" and "ADD"  are the same 
